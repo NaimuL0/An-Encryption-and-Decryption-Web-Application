@@ -5,6 +5,8 @@
 # Project Overview:
 This project is a web application designed to perform encryption and decryption of text data using the Advanced Encryption Standard (AES) algorithm. It showcases a blend of cryptographic techniques and web development skills, demonstrating the capability to build secure and user-friendly applications.
 <img width="825" alt="image" src="https://github.com/user-attachments/assets/c3edd557-fa20-41f4-8286-ece9e9c3ac6d">
+<img width="731" alt="image" src="https://github.com/user-attachments/assets/5d9372fa-7e2b-4209-97b8-ca1a857e1498">
+
 
 
 # Key Features:
